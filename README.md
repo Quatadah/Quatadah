@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Quatadah</h1>
-<h3 align="center">A passionate Software Engineer student</h3>
+<h3 align="center">A passionate Software Engineer Student</h3>
 
 - 🔭 I’m currently working on [@Dolibarr](https://github.com/Dolibarr/dolibarr)
 
