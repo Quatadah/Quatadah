@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [@Dolibarr](https://github.com/Dolibarr/dolibarr)
 
-- 🌱 I’m currently learning **React - React Native**
-
 - 📫 How to reach me **quatadah.nasdami@gmail.com**
 
 
