@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Quatadah</h1>
 <h3 align="center">A passionate Software Engineer Student</h3>
 
-- 🔭 Software Engineer in 2023 (loading ...)
+- 🔭 Software Engineer
 
 - 📫 How to reach me **quatadah.nasdami@gmail.com**
 
